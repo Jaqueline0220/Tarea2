@@ -1,0 +1,46 @@
+*{
+  box-sizing: border-box;
+}
+#header{
+  max-width:100%;
+  border: 3px solid #77FF33;
+  background: #77FF33;
+  text-align: center;
+  color: black;
+  font-family:'Poiret One', cursive;
+  letter-spacing: 10px;
+}
+#nav{
+  width:20%;
+  height:893px;
+  border: 1px solid #33FF9C;
+  background: #33FF9C;
+  float:left;
+  position: relative;
+  left: 0px;
+  top: 0px;
+  letter-spacing: 10px;
+  font-family:'Poiret One', cursive;
+}
+#section{
+  border: 3px solid #33BEFF;
+  width:80%;
+  float:left;
+  font-family:'Poiret One', cursive;
+  letter-spacing: 10px;
+  background:#33BEFF
+}
+#footer{
+  width:100%;
+  border: 3px solid #9633FF;
+  background:#9633FF;
+  float:left;
+  font-family:'Poiret One', cursive;
+  letter-spacing: 10px;
+  text-align: center;
+  }
+.article{
+  background:black;
+  border: 3px solid black;
+  color:white;
+}
